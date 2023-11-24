@@ -1,3 +1,3 @@
 var img;
-function imgchange5(){document.getElementById('logo3').src='./image/1-61.jpg';}
-function imgchange6(){document.getElementById('logo3').src='./image/png-transparent-josai-university-hd-logo.png';}
+function imgchange1(){document.getElementById('logo').src='./image/dog_shibainu_black.png';}
+function imgchange2(){document.getElementById('logo').src='./image/dog_shibainu_white.png';}
