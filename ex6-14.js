@@ -1,3 +1,3 @@
 var img;
-function imgchange1(){document.getElementById('logo').src='./image/dog_shibainu_black.png';}
-function imgchange2(){document.getElementById('logo').src='./image/dog_shibainu_white.png';}
+function imgchange5(){document.getElementById('logo3').src='./image/dog_shibainu_black.png';}
+function imgchange6(){document.getElementById('logo3').src='./image/dog_shibainu_white.png';}
