@@ -1,4 +1,6 @@
-//function BMI5(){ var x,y
-               //x = document.getElementById('BMI1').value;
-               //y = document.getElementById('BMI2').value;
-               //alert(Number(x) / Number(y) * Number(y));}
+function BMI() {
+    var height = Number(document.getElementById('height').value) / 100; // 身長をメートルに変換
+    var weight = Number(document.getElementById('weight').value);
+    var bmi = weight / (height * height); // BMIの計算
+
+    alert('あなたのBMIは ' + bmi + ' です。');
