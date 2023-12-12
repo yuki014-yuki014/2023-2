@@ -1,4 +1,4 @@
-function add(){
-  var x = document.getElementById('input3').value;
-  var y = document.getElementById('input4').value;
-  alert(((x)/(y**2))*100);}
+//function BMI5(){ var x,y
+               //x = document.getElementById('BMI1').value;
+               //y = document.getElementById('BMI2').value;
+               //alert(Number(x) / Number(y) * Number(y));}
